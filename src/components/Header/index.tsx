@@ -1,4 +1,4 @@
-import { Image, Flex, Text, Spacer, HStack, Link, Button} from '@chakra-ui/react'
+import { Image, Flex, Text, Spacer, HStack, Button} from '@chakra-ui/react'
 
 export default function Header() {
   return (

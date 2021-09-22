@@ -16,10 +16,10 @@ export default function Header() {
       <Spacer />
       <Flex>
         <HStack spacing="20">
-          <Link color="#FFFFFF">Graveyard</Link>
-          <Link color="#FFFFFF">Track Record</Link>
-          <Link color="#FFFFFF">Services</Link>
-          <Link color="#FFFFFF">Know More</Link>
+          <Button variant="link" color="#FFFFFF">Graveyard</Button>
+          <Button variant="link" color="#FFFFFF">Track Record</Button>
+          <Button variant="link" color="#FFFFFF">Services</Button>
+          <Button variant="link" color="#FFFFFF">Know More</Button>
           <Button color="#FFFFFF" borderColor="#FFFFFF" width="36" variant="outline" borderRadius={100}>Support</Button>
         </HStack>
       </Flex>

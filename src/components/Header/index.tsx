@@ -18,7 +18,7 @@ export default function Header() {
         <HStack spacing="20">
           <Button variant="link" color="#FFFFFF">Graveyard</Button>
           <Button variant="link" color="#FFFFFF">Track Record</Button>
-          <Button variant="link" color="#FFFFFF">Services</Button>
+          <Button variant="link" color="#FFFFFF">Brian</Button>
           <Button variant="link" color="#FFFFFF">Know More</Button>
           <Button color="#FFFFFF" borderColor="#FFFFFF" width="36" variant="outline" borderRadius={100}>Support</Button>
         </HStack>
